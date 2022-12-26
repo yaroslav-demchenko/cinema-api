@@ -41,3 +41,7 @@ docker-compose up
 - Creating cinema halls
 - Adding movie sessions
 - Filtering movies and movies sessions
+
+## Swagger documentation (demo)
+![cinema endpoints](demo_cinema_endpoints.png)
+![user endpoints](demo_user_endpoints.png)
