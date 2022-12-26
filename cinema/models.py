@@ -1,7 +1,7 @@
 from django.core.exceptions import ValidationError
 from django.db import models
 from django.conf import settings
-from services import movie_image_file_path
+from cinema.services import movie_image_file_path
 
 
 class CinemaHall(models.Model):
